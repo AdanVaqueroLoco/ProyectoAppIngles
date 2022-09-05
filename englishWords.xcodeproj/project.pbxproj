@@ -14,6 +14,7 @@
 		3D58EDF528C6418300054133 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D58EDF328C6418300054133 /* LaunchScreen.storyboard */; };
 		3D58EE0028C6418300054133 /* englishWordsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D58EDFF28C6418300054133 /* englishWordsTests.swift */; };
 		3D58EE0B28C6418300054133 /* englishWordsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D58EE0A28C6418300054133 /* englishWordsUITests.swift */; };
+		3D58EE1B28C6488B00054133 /* AustieBostKittenKlub.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D58EE1A28C6488B00054133 /* AustieBostKittenKlub.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3D58EE0628C6418300054133 /* englishWordsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = englishWordsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D58EE0A28C6418300054133 /* englishWordsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = englishWordsUITests.swift; sourceTree = "<group>"; };
 		3D58EE0C28C6418300054133 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D58EE1A28C6488B00054133 /* AustieBostKittenKlub.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = AustieBostKittenKlub.ttf; path = "../../../Downloads/austie-bost-kitten-klub/AustieBostKittenKlub.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		3D58EDE928C6417F00054133 /* englishWords */ = {
 			isa = PBXGroup;
 			children = (
+				3D58EE1A28C6488B00054133 /* AustieBostKittenKlub.ttf */,
 				3D58EDEA28C6417F00054133 /* AppDelegate.swift */,
 				3D58EDEC28C6417F00054133 /* ViewController.swift */,
 				3D58EDEE28C6418000054133 /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D58EE1B28C6488B00054133 /* AustieBostKittenKlub.ttf in Resources */,
 				3D58EDF528C6418300054133 /* LaunchScreen.storyboard in Resources */,
 				3D58EDF228C6418300054133 /* Assets.xcassets in Resources */,
 				3D58EDF028C6418000054133 /* Main.storyboard in Resources */,
